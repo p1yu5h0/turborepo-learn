@@ -1,3 +1,5 @@
+on `npm run dev` turbo.json finds dev script in each of the apps/[service]/package.json
+
 # Turborepo starter
 
 This is an official starter Turborepo.
