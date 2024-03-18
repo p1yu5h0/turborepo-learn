@@ -1,11 +1,13 @@
 import express from "express";
+// import NUMBER from "@repo/common";
 
 const app = express()
 
 app.get("/", (req, res) => {
     console.log('port 3003 (backend 2) hit by server')
     res.json({
-        message: "hello world"
+        message: "hello world",
+        // number: NUMBER
     });
 })
 
