@@ -1,5 +1,9 @@
 on `npm run dev` turbo.json finds dev script in each of the apps/[service]/package.json
 
+https://turbo.build/repo/docs/getting-started/create-new#using-the-cache
+https://turbo.build/repo/docs/core-concepts/caching
+https://turbo.build/repo/docs/core-concepts/monorepos/configuring-workspaces
+
 # Turborepo starter
 
 This is an official starter Turborepo.
